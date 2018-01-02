@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MAP>
+
+	<LOCATION>
+		<CITY>Fresno</CITY>
+		<STATE>California</STATE>
+	</LOCATION>
+	
+	<LOCATION>
+		<CITY>Long Beach</CITY>
+		<STATE>California</STATE>
+	</LOCATION>
+	
+	<LOCATION>
+		<CITY>Los Angeles</CITY>
+		<STATE>California</STATE>
+	</LOCATION>
+	
+	<LOCATION>
+		<CITY>San Francisco</CITY>
+		<STATE>California</STATE>
+	</LOCATION>
+
+	<LOCATION>
+		<CITY>Phoenix</CITY>
+		<STATE>Arizona</STATE>
+	</LOCATION>
+
+	<LOCATION>
+		<CITY>Denver</CITY>
+		<STATE>Colorado</STATE>
+	</LOCATION>
+
+	<LOCATION>
+		<CITY>Las Vegas</CITY>
+		<STATE>Nevada</STATE>
+	</LOCATION>
+	<LOCATION>
+		<CITY>New York</CITY>
+		<STATE>New York</STATE>
+	</LOCATION>
+	<LOCATION>
+		<CITY>Austin</CITY>
+		<STATE>Texas</STATE>
+	</LOCATION>
+	<LOCATION>
+		<CITY>Dallas</CITY>
+		<STATE>Texas</STATE>
+	</LOCATION>
+	<LOCATION>
+		<CITY>Tampa</CITY>
+		<STATE>Florida</STATE>
+	</LOCATION>
+
+
+
+
+</MAP>
